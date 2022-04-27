@@ -1,5 +1,5 @@
-<h1>Desafio 17- Kenai</h1>
-<h4>Desafio Kenai desenvolvido com VueJs</h4>
+<h1>Kenai</h1>
+<h4>Kenai desenvolvido com VueJs</h4>
 <h2>Tecnologias Utilizadas</h2>
 <div style="display: inline_block">
   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -9,4 +9,4 @@
 <h2>Preview</h2>
 <img margin-bottom="20px" src="src/assets/readme1.PNG">
 <img margin-bottom="20px" src="src/assets/readme2.PNG">
-<h4  style="display: inline_block">Visualização do site :</h4><a style="display: inline_block" target="blank" href="https://kenai.netlify.app/">Preview no Netlify</a>
+<h4  style="display: inline_block">Visualização do site :</h4><a style="display: inline_block" 
